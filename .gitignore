@@ -1,0 +1,6 @@
+.env
+*.sqlite
+*.db
+*credentials*
+*.key
+*ssh*
